@@ -1,0 +1,14 @@
+{
+  "name": "tifa3d-front",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "vite",
+    "构建": "vite build"
+  },
+  "依赖项": {
+    "vue": "^3.3.4",
+    "element-plus": "^2.3.8",
+    "axios": "^1.5.0",
+    "three": "^0.156.1"
+  }
+}
